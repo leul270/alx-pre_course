@@ -1,1 +1,1 @@
-My second readme
+I only allowed for this case
